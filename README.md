@@ -11,3 +11,6 @@ Best links and sources about R
 ## R with Docker
 4. https://ropenscilabs.github.io/r-docker-tutorial/
 5. https://www.rocker-project.org/
+
+## Cheatsheets
+6. https://stanford.edu/~shervine/teaching/cs-229.html
