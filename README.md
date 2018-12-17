@@ -14,3 +14,6 @@ Best links and sources about R
 
 ## Cheatsheets
 6. https://stanford.edu/~shervine/teaching/cs-229.html
+
+## Best presentations about R
+7. How to be a resilent user of R: https://maelle.github.io/fluctuat_nec_mergitur/#1
