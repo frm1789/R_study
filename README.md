@@ -17,3 +17,9 @@ Best links and sources about R
 
 ## Best presentations about R
 7. How to be a resilent user of R: https://maelle.github.io/fluctuat_nec_mergitur/#1
+
+# Python_study
+Best links and sources about Python
+
+## Coursera
+1. https://www.coursera.org/specializations/data-science-python
