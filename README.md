@@ -23,3 +23,11 @@ Best links and sources about Python
 
 ## Coursera
 1. https://www.coursera.org/specializations/data-science-python
+
+# Tableau
+1. https://datavizblog.com/2018/10/13/guest-post-prepping-for-the-tableau-desktop-qualified-associate-exam/
+2. https://public.tableau.com/profile/paula.munoz#!/vizhome/DQA_Preparation/Tableau_DQA_Certification_Study_Resources
+
+# Visualizations
+1. https://junkcharts.typepad.com
+
